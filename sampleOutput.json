@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 670,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Former Apple car engineer pleads guilty to trade secret theft - Reuters",
+            "description": "A former Apple Inc <a href=\"https://www.reuters.com/companies/AAPL.O\" target=\"_blank\">(AAPL.O)</a> engineer on Monday pleaded guilty to trade secret theft - one of two people accused of stealing trade secrets from the iPhone maker's nascent self-driving car p…",
+            "url": "https://www.reuters.com/legal/former-apple-car-engineer-pleads-guilty-trade-secret-theft-2022-08-23/",
+            "urlToImage": "https://www.reuters.com/resizer/sQcx3MbgGJMUAx1f5bauhCSCw94=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UEA7RRTBBNIGBOJZTOK4JVGY5Q.jpg",
+            "publishedAt": "2022-08-23T02:30:00Z",
+            "content": "Aug 22 (Reuters) - A former Apple Inc (AAPL.O) engineer on Monday pleaded guilty to trade secret theft - one of two people accused of stealing trade secrets from the iPhone maker's nascent self-drivi… [+1130 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Tim Hardwick",
+            "title": "Apple's Secrecy Standards Complicate iPhone 14 Production in India",
+            "description": "Apple will begin iPhone 14 production in India about two months after the first wave of devices are released out of China as manufacturing partners try to replicate the complex iPhone supply chain operation in another country for the first time.\n\n\n\n\n\nBloomber…",
+            "url": "https://www.macrumors.com/2022/08/23/apple-secrecy-iphone-14-production-india/",
+            "urlToImage": "https://images.macrumors.com/t/smqTMOkg-e0ZIPRs0ZXA6CHOLS0=/2531x/article-new/2022/05/iPhone-14-Lineup-Feature-Teal.jpg",
+            "publishedAt": "2022-08-23T09:14:35Z",
+            "content": "Apple will begin iPhone 14 production in India about two months after the first wave of devices are released out of China as manufacturing partners try to replicate the complex iPhone supply chain op… [+2338 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Boing Boing"
+            },
+            "author": "Rob Beschizza",
+            "title": "Is this the perfect mechanical keyboard?",
+            "description": "The Altar I is a low profile and wireless mechanical keyboard with a very particular aesthetic that reminds me of old-timey Apple, Teenage Engineering and phone handsets designed for the vision-impaired. \n\n\n\nAltar I focuses on one idea: Less, but better. A pr…",
+            "url": "https://boingboing.net/2022/08/23/is-this-the-perfect-mechanical-keyboard.html",
+            "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2022/08/Screen-Shot-2022-08-22-at-5.04.52-PM-scaled.jpg?fit=1200%2C534&ssl=1",
+            "publishedAt": "2022-08-23T09:08:00Z",
+            "content": "The Altar I is a low profile and wireless mechanical keyboard with a very particular aesthetic that reminds me of old-timey Apple, Teenage Engineering and phone handsets designed for the vision-impai… [+671 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Robinsloan.com"
+            },
+            "author": null,
+            "title": "An odd discovery on Spotify",
+            "description": "New releases; good catastrophes; an alluring and unnerving encounter.",
+            "url": "https://www.robinsloan.com/newsletters/visions/#spotify",
+            "urlToImage": "https://www.robinsloan.com/img/ashlad-palace.jpg",
+            "publishedAt": "2022-08-23T00:30:52Z",
+            "content": "From: Robin SloanTo: main newsletterSent: July 2022\r\nFar, Far Away Soria Moria Palace Shimmered Like Gold, 1900, Theodor Kittelsen\r\nThis newslet­ter is a fun one, with lots to explore and think about… [+18721 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Wolf Dieter Dallinger",
+            "title": "Programmiersprachen: Reguläre Ausdrücke in Swift neu aufgestellt",
+            "description": "Apple führt in Swift 5.7 eine domänenspezifische Sprache ein, um reguläre Ausdrücke sauber zu verarbeiten.",
+            "url": "https://www.heise.de/hintergrund/Programmiersprachen-Regulaere-Ausdruecke-in-Swift-neu-aufgestellt-7237616.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/9/5/1/5/6/shutterstock_1352756288-ced7923de5f386ef.jpg",
+            "publishedAt": "2022-08-23T06:03:00Z",
+            "content": "Inhaltsverzeichnis\r\nReguläre Ausdrücke sind ein mächtiges Werkzeug im Umgang mit Zeichenketten. Doch die bisherige Umsetzung in Apples Programmiersprache Swift ist ein Erbe von Objective-C mit all de… [+5332 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Ben Schwan",
+            "title": "Kinderporno-Scan auf iPhones: Apple schweigt, wie's weitergeht",
+            "description": "Die umstrittene automatische KI-Analyse von Fotos auf illegale CSAM-Inhalte hatte Apple zunächst auf Eis gelegt. Wie stehen die Chancen, dass sie noch kommt?",
+            "url": "https://www.heise.de/news/Kinderporno-Scan-auf-iPhones-Apple-schweigt-wie-s-weitergeht-7220751.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/9/2/3/6/8/249968568_b7a71e3328-a7a1723766cb016c.jpg",
+            "publishedAt": "2022-08-23T09:38:00Z",
+            "content": "Nach wie vor ist unklar, ob Apple auf iPhones und iPads Speicherinhalte künftig automatisch auf Missbrauchsbilder scannen wird. Eine entsprechende Funktion hatte der Konzern vor ziemlich genau einem … [+3446 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Ben Schwan",
+            "title": "Windows auf Intel-Macs: Apple rüstet WPA3 bei Boot Camp nach",
+            "description": "Der Mac-Hersteller fasst seine Windows-Unterstützung für Intel-Maschinen erneut an. Version 6.1.16 bringt neue Features und Fehlerbehebungen.",
+            "url": "https://www.heise.de/news/Windows-auf-Intel-Macs-Apple-ruestet-WPA3-bei-Boot-Camp-nach-7240027.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/9/6/3/9/8/bootcamp-62da95e7af7d2e81.jpg",
+            "publishedAt": "2022-08-23T08:04:00Z",
+            "content": "Eigentlich hat Boot Camp keine Zukunft mehr: Mit dieser Apple-Software ist es möglich, nativ Windows auf Intel-Macs auszuführen und genau die nimmt der Hersteller nach und nach aus dem Programm und e… [+2001 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Eva-Maria Weiß",
+            "title": "Content-Scanner und Kinderschutz: Wer kontrolliert Google?",
+            "description": "Kritik an Googles Kinderschutz gibt es bereits. Nun taucht ein Fallbeispiel auf, bei dem die Technik scheitert – aber auch die Eltern, meint Eva-Maria Weiß.",
+            "url": "https://www.heise.de/meinung/Content-Scanner-und-Kinderschutz-Wer-kontrolliert-Google-7239350.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/9/6/0/6/2/shutterstock_434396323-5092929b34414828.jpg",
+            "publishedAt": "2022-08-23T08:20:00Z",
+            "content": "Es ist nie eine gute Idee, Nacktfotos eines Kindes per Smartphone ohne Verschlüsselung irgendwohin zu senden. Auch nicht zu einem Arzt, der dies anfragt. So aber geschehen in den USA mit Konsequenzen… [+3980 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Filipe Espósito",
+            "title": "Apple updates Boot Camp for Intel Macs with WPA3 Wi-Fi support",
+            "description": "Apple on Monday released an update to Boot Camp Utility, the company’s tool that lets Intel Mac users run Windows natively on their Apple computers. Today’s update brings Wi-Fi improvements, as it adds support for the WPA3 standard.\n more…\nThe post Apple upda…",
+            "url": "https://9to5mac.com/2022/08/22/apple-boot-camp-intel-macs-wpa3-wi-fi/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/08/Apple-Boot-Camp-Mac-Windows.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-08-23T02:18:52Z",
+            "content": "Apple on Monday released an update to Boot Camp Utility, the company’s tool that lets Intel Mac users run Windows natively on their Apple computers. Today’s update brings Wi-Fi improvements, as it ad… [+1943 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Filipe Espósito",
+            "title": "Grubhub partners with Apple TV+ to promote Severance’s ‘Waffle Party’",
+            "description": "Grubhub, one of the most popular food ordering and delivery platforms in the United States, announced this week a new partnership with Apple. To celebrate National Waffle Day, users can earn a free “perk” with an order placed using a code inspired by the Appl…",
+            "url": "https://9to5mac.com/2022/08/22/grubhub-partners-with-apple-tv-to-promote-severances-waffle-party/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/08/Grubhub-partners-with-Apple-TV-Plus-to-promote-Severance-Waffle-Party.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-08-23T00:07:34Z",
+            "content": "Grubhub, one of the most popular food ordering and delivery platforms in the United States, announced this week a new partnership with Apple. To celebrate National Waffle Day, users can earn a free “… [+1919 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Chance Miller",
+            "title": "Former Apple engineer pleads guilty to stealing Project Titan trade secrets",
+            "description": "A former Apple engineer has pled guilty to stealing trade secrets from the company. In a San Jose federal court, Xiaolang Zhang admitted to the theft of Apple’s Project Titan trade secrets and could face up to 10 years in prison and a $250,000 fine…\n more…\nTh…",
+            "url": "https://9to5mac.com/2022/08/22/apple-car-trade-secrets-theft/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/07/apple-car-carplay-design.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-08-23T01:07:57Z",
+            "content": "A former Apple engineer has pled guilty to stealing trade secrets from the company. In a San Jose federal court, Xiaolang Zhang admitted to the theft of Apple’s Project Titan trade secrets and could … [+2103 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Amber Neely)",
+            "title": "Former Apple engineer accepts plea deal, pleads guilty to stealing trade secrets",
+            "description": "A former Apple employee charged with stealing trade secrets relating to the company's secretive Apple Car project has pleaded guilty in federal court.In 2018, Xiaolang Zhang initially entered a plea of not guilty after it was discovered that he'd downloaded a…",
+            "url": "https://appleinsider.com/articles/22/08/23/former-apple-engineer-accepts-plea-deal-pleads-guilty-to-stealing-trade-secrets",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/50013-98101-car-xl.jpg",
+            "publishedAt": "2022-08-23T01:51:03Z",
+            "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+1175 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lifehacker.jp"
+            },
+            "author": "酒井麻里子",
+            "title": "iPhone不要！Apple WatchでPodcastを最大限楽しむ方法",
+            "description": "Image:shutterstockライフハッカー［日本版］2021年7月8日掲載の記事より転載。記事中の情報は掲載時点でのものです。コロナ禍で人気が高まる音声コンテンツ。最近になって本格的に聴くようになった方も多いのではないでしょうか？Appleの定番アプリ「Podcast」なら、AppleWatchから音声コンテンツを聴けます。音声を聴く際にはBluetooth対応のイヤホンが必要ですが、iP",
+            "url": "https://www.lifehacker.jp/article/how-to-use-apple-watch-podcast/",
+            "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2022/08/22/shutterstock_1226709739-w960.jpg",
+            "publishedAt": "2022-08-23T00:00:00Z",
+            "content": "202178\r\nApplePodcastApple WatchBluetoothiPhone\r\nPodcast\r\nApple1\r\nScreenshot: via Podcast\r\nPodcasttinyhack\r\nApple WatchPodcast\r\nPodcastApple Watch\r\nPodcast\r\niPhonePodcast\r\nScreenshot: via Podcast\r\n×1\r… [+502 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.jp"
+            },
+            "author": "岩田リョウコ",
+            "title": "「Apple Pencilは高い」という人には、機能がほぼ同じのAdonitスタイラスペンがおすすめ",
+            "description": "Adonitのスタイラスペン「Neo Pro」。Apple Pencilとほぼ同様の機能なのに、価格は約6,000円とリーズナブル。",
+            "url": "https://www.gizmodo.jp/2022/08/adonit-neo-pro.html",
+            "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2022/08/23/neoproall-34f47446-w960.jpg",
+            "publishedAt": "2022-08-23T05:00:00Z",
+            "content": "iPhoneApple PenciliPadApple PencilAdonit Neo ProApple Pencil44.996,000\r\n323iPadBluetooth\r\nBluetooth1Apple PenciliPad ProLightning2iPad\r\nAdonit2010iPadNeo Pro2Apple PenciliPadiPad29Apple Pencil\r\niPadi… [+98 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "Jesús Quesada",
+            "title": "El cargador plegable MagSafe triple para iPhone, Apple Watch y AirPods que no puede faltar en tus viajes está de oferta",
+            "description": "Si llevas varios dispositivos electrónicos en tus vacaciones, te habrás dado cuenta de lo incómodo que es llevar múltiples cargadores y cables en la maleta. Esta estación de carga inalámbrica MagSafe plegable de BOCLOUD para iPhone, Apple Watch y AirPods se p…",
+            "url": "https://www.applesfera.com/seleccion/cargador-plegable-magsafe-triple-para-iphone-apple-watch-airpods-que-no-puede-faltar-tus-viajes-esta-oferta",
+            "urlToImage": "https://i.blogs.es/6bc042/cargador-triple-magsafe-oferta/840_560.jpg",
+            "publishedAt": "2022-08-23T07:58:54Z",
+            "content": "Si llevas varios dispositivos electrónicos en tus vacaciones, te habrás dado cuenta de lo incómodo que es llevar múltiples cargadores y cables en la maleta. Esta estación de carga inalámbrica MagSafe… [+1838 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "XDA Developers"
+            },
+            "author": "Mahmoud Itani",
+            "title": "These are the Best Charger Alternatives for the Apple Watch Series 7",
+            "description": "The Apple Watch is an unrivaled wearable for those looking for a fitness companion and non-health-related features. If you buy an Apple Watch Series 7, you’re both investing in your health and making your life easier. This tiny device has a lot to offer — fro…",
+            "url": "https://www.xda-developers.com/best-apple-watch-7-chargers/",
+            "urlToImage": "https://www.xda-developers.com/files/2022/01/Apple-Watch-7_4.jpg",
+            "publishedAt": "2022-08-23T07:30:19Z",
+            "content": "The Apple Watch is an unrivaled wearable for those looking for a fitness companion and non-health-related features. If you buy an Apple Watch Series 7, you’re both investing in your health and making… [+2779 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "XDA Developers"
+            },
+            "author": "Mahmoud Itani",
+            "title": "How to receive geofence alerts through location-aware reminders on iOS",
+            "description": "Modern life can be pretty overwhelming. We’ve got plenty of matters to tend to, and there are present-day pressures that didn’t exist in the olden days. One of the perks of living during these times, though, is the ability to utilize the technologies we have …",
+            "url": "https://www.xda-developers.com/how-to-receive-geofence-location-reminders-ios/",
+            "urlToImage": "https://www.xda-developers.com/files/2022/07/Apple-Reminders-icon-on-iPadOS-16-wallpaper-2.jpg",
+            "publishedAt": "2022-08-23T06:39:54Z",
+            "content": "Modern life can be pretty overwhelming. We’ve got plenty of matters to tend to, and there are present-day pressures that didn’t exist in the olden days. One of the perks of living during these times,… [+1846 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Golem.de"
+            },
+            "author": "Andreas Donath",
+            "title": "Glücklicher und zufriedener: Apple-Mitarbeiter wehren sich gegen Rückkehr ins Büro",
+            "description": "Apple fordert seine Mitarbeiter auf, ab September wieder drei Tage die Woche im Büro zu arbeiten. Nun hat sich Widerstand formiert. (Homeoffice, Apple)",
+            "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fgluecklicher-und-zufriedener-apple-mitarbeiter-wehren-sich-gegen-rueckkehr-ins-buero-2208-167789.html&referer=https%3A%2F%2Ft.co%2Fb64520b553",
+            "urlToImage": null,
+            "publishedAt": "2022-08-23T05:50:02Z",
+            "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking, indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informatio… [+575 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Golem.de"
+            },
+            "author": "Oliver Nickel",
+            "title": "Apple Macbook: Lohnt sich ein Macbook Air M1 statt des Macbook Air M2?",
+            "description": "Der hohe Einstiegspreis des neuen Macbook Air M2 macht den günstigeren Vorgänger mit M1 attraktiver. Der hat kaum Nachteile. Eine Analyse von Oliver Nickel (Macbook Air, Apple)",
+            "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fapple-macbook-lohnt-sich-ein-macbook-air-m1-statt-des-macbook-air-m2-2208-167775.html&referer=https%3A%2F%2Ft.co%2Fd3e20d3625",
+            "urlToImage": null,
+            "publishedAt": "2022-08-23T07:01:02Z",
+            "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking, indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informatio… [+575 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The A.V. Club"
+            },
+            "author": "Saloni Gajjar",
+            "title": "Kevin Can F**K Himself is back for more artful sitcom subversion",
+            "description": "Kevin Can F**K Himself is wisely ending after two seasons on its own terms. I say wisely because, as much as I enjoy this perfectly weird little drama, I would hate for it to run out of steam without having anything valuable to add to its thematic and storyte…",
+            "url": "https://www.avclub.com/kevin-can-f-k-himself-season-2-episode-1-recap-1849430744",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8060f3c14047b0bb0c45cb525b7c6b18.png",
+            "publishedAt": "2022-08-23T02:00:00Z",
+            "content": "Kevin Can F**K Himselfis wisely ending after two seasons on its own terms. I say wisely because, as much as I enjoy this perfectly weird little drama, I would hate for it to run out of steam without … [+7762 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BGR"
+            },
+            "author": "Chris Smith",
+            "title": "iPhone 14 mini pops up in extremely sketchy Apple rumor",
+            "description": "The iPhone 14 launch event is imminent, with reports saying that Apple will reveal its new phone earlier than usual on September 7. That’s just one of the particularities of this year’s launch. Apple will also mix up the iPhone lineup this year, with most rep…",
+            "url": "https://bgr.com/tech/iphone-14-mini-pops-up-in-extremely-sketchy-apple-rumor/",
+            "urlToImage": "https://bgr.com/wp-content/uploads/2021/09/apple-iphone-13-4.jpg?quality=82&strip=all",
+            "publishedAt": "2022-08-23T01:30:00Z",
+            "content": "The iPhone 14 launch event is imminent, with reports saying that Apple will reveal its new phone earlier than usual on September 7. That’s just one of the particularities of this year’s launch. Apple… [+2433 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "iMore"
+            },
+            "author": "heyimjoew@icloud.com (Joe Wituschek)",
+            "title": "You can watch the first season of See for free on Apple TV+",
+            "description": "Ahead of the season three premiere, Apple TV+ is making the first season of See available to watch for free",
+            "url": "https://www.imore.com/music-movies-tv/apple-tv/you-can-watch-the-first-season-of-see-for-free-on-apple-tv",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/iUoXE9aruP5ecQE3nJogET-1200-80.jpg",
+            "publishedAt": "2022-08-23T00:11:22Z",
+            "content": "The final season of See is premiering on Friday, August 26th. If you've been thinking about checking out the series but haven't yet and also haven't been paying for Apple TV+, Apple has an offer for … [+1788 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Former Apple Engineer Pleads Guilty to Stealing Apple Car Secrets",
+            "description": "Former Apple employee Xiaolang Zhang today pleaded guilty to theft of trade secrets, which could get him up to ten years in prison, reports CNBC. Zhang was first hired by Apple in December 2015 to work on Project Titan, developing software and hardware for au…",
+            "url": "https://www.macrumors.com/2022/08/22/apple-engineer-pleads-guilty-apple-car-trade-secrets/",
+            "urlToImage": "https://images.macrumors.com/t/ntLgKPZ-9pxGJESzIrIFDoEdAu4=/2500x/article-new/2020/12/Apple-car-wheel-icon-feature-blue.jpg",
+            "publishedAt": "2022-08-23T01:53:14Z",
+            "content": "Former Apple employee Xiaolang Zhang today pleaded guilty to theft of trade secrets, which could get him up to ten years in prison, reports CNBC. Zhang was first hired by Apple in December 2015 to wo… [+803 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Les Numériques"
+            },
+            "author": "Rick",
+            "title": "Actualité : Top qualité / prix – La montre connectée Garmin Venu Sand/Rose Gold à 243,73 €",
+            "description": "La montre connectée Garmin Venu Sand/Rose Gold s'affiche aujourd'hui à 243,73 € chez Amazon.",
+            "url": "https://www.lesnumeriques.com/montre-connectee/top-qualite-prix-la-montre-connectee-garmin-venu-sand-rose-gold-a-243-73-n190019.html",
+            "urlToImage": "https://cdn.lesnumeriques.com/optim/test/14/144679/e2199eb6-garmin-venu-un-superbe-ecran-oled-pour-une-montre-de-sport-efficace__1200_630__overflow.jpeg",
+            "publishedAt": "2022-08-23T08:28:02Z",
+            "content": "La montre connectée Garmin Venu Sand/Rose Gold s'affiche aujourd'hui à 243,73  chez Amazon.\r\nModèle concernéCe contenu porte spécifiquement sur le modèle : Sand/Rose Gold. D'autres déclinaisons exist… [+1278 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Playpcesor.com"
+            },
+            "author": "Esor Huang",
+            "title": "timeOS 瀏覽器分頁化身 Google 日曆提醒與 Notion 快速會議筆記",
+            "description": "可以替換 Google Chrome 瀏覽器新分頁的外掛套件很多，之前電腦玩物也介紹過不少，有幫助我們專注與聚焦每天重要工作的選擇，也有讓我們更放鬆紓壓的畫面，有興趣的朋友可以參考下面四種不同的新分頁套件：",
+            "url": "https://www.playpcesor.com/2022/08/timeos-google-notion.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/a/AVvXsEg-hmDdVZsVo1ZUEo4msrj2sZqmr_P_gYtZ2lpIO4Xh8lYZXfI_DqRVbYA1BiVh3Ktwq6JhebLY3PUseUpth_7FJ_swdgP9u_mcuT8HcKNZYjVWW5-3mpOtAANw6qnkore2_UPSuCMgc5umJm8Zv54v-DnpYF-RXZ8M2e3x6gmxJym7Jqb444w=w1200-h630-p-k-no-nu",
+            "publishedAt": "2022-08-23T04:38:00Z",
+            "content": "可以替換 Google Chrome 瀏覽器新分頁的外掛套件很多，之前電腦玩物也介紹過不少，有幫助我們專注與聚焦每天重要工作的選擇，也有讓我們更放鬆紓壓的畫面，有興趣的朋友可以參考下面四種不同的新分頁套件：<ul><li>讀詩詞：几枝：緩一下神思與放鬆，瀏覽器每日詩詞新分頁</li><li>番茄鐘筆記：Tabwave 番茄鐘搭配備忘筆記的瀏覽器新分頁，上網起步更專注</li><li>美麗照片：G… [+1893 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Caschys Blog"
+            },
+            "author": "André Westphal",
+            "title": "Netflix liebäugelt offenbar mit Cloud-Gaming",
+            "description": "Netflix will offenbar ins Cloud-Gaming einsteigen. Bisher vergnügt man sich mit mobilen Spielen für Android und Apple iOS, die von den Abonnenten aber eher mau angenommen werden. Eigentlich dürfte man meinen, das Cloud-Gaming wäre für den Streaming-Anbieter o…",
+            "url": "https://stadt-bremerhaven.de/netflix-liebaeugelt-offenbar-mit-cloud-gaming/",
+            "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2022/03/netflix-thibault-penin-AWOl7qqsffM-unsplash_.jpg",
+            "publishedAt": "2022-08-23T08:30:54Z",
+            "content": "Netflix will offenbar ins Cloud-Gaming einsteigen. Bisher vergnügt man sich mit mobilen Spielen für Android und Apple iOS, die von den Abonnenten aber eher mau angenommen werden. Eigentlich dürfte ma… [+1532 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Caschys Blog"
+            },
+            "author": "André Westphal",
+            "title": "Sony PlayStation Store: Klage in Großbritannien wegen angeblicher Preistreiberei",
+            "description": "Sony wird in Großbritannien wegen seines PlayStation Stores verklagt. In die Wege geleitet wurde dort eine Sammelklage von dem Verbraucherschützer Alex Neil. Es geht dort um ca. 5 Mrd. Pfund. Der Vorwurf lautet, dass Sony die Vormachtsstellung des PlayStation…",
+            "url": "https://stadt-bremerhaven.de/sony-playstation-store-klage-in-grossbritannien-wegen-angeblicher-preistreiberei/",
+            "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2020/11/PlayStation-5-5s.jpg",
+            "publishedAt": "2022-08-23T09:30:07Z",
+            "content": "Sony wird in Großbritannien wegen seines PlayStation Stores verklagt. In die Wege geleitet wurde dort eine Sammelklage von dem Verbraucherschützer Alex Neil. Es geht dort um ca. 5 Mrd. Pfund. Der Vor… [+2175 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Frandroid"
+            },
+            "author": "Marie Lizak",
+            "title": "Cet étonnant cabriolet électrique va vous donner envie de rouler cheveux aux vents",
+            "description": "La marque allemande Evetta dévoile l'Openair, un petit cabriolet électrique inspiré par la mythique BMW Isetta. Les pré-commandes sont déjà ouvertes. Vous rêvez d’un cabriolet électrique pour profiter du soleil et pour rouler cheveux au vent en été ? Ça tombe…",
+            "url": "https://www.frandroid.com/produits-android/automobile/voitures-electriques/1439021_cet-etonnant-cabriolet-electrique-va-vous-donner-envie-de-rouler-cheveux-aux-vents",
+            "urlToImage": "https://images.frandroid.com/wp-content/uploads/2022/08/evetta-openair-2.jpeg",
+            "publishedAt": "2022-08-23T09:40:31Z",
+            "content": "La marque allemande Evetta dévoile l'Openair, un petit cabriolet électrique inspiré par la mythique BMW Isetta. Les pré-commandes sont déjà ouvertes.\r\nVous rêvez dun cabriolet électrique pour profite… [+2618 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MSPoweruser"
+            },
+            "author": "Sharron Bennet",
+            "title": "YouTube podcast page now available in the US",
+            "description": "After the news about its plan to establish a podcast page in March, YouTube has finally made the formerly inaccessible YouTube.com/podcasts destination live in the US. Google didn’t announce making the page available, but 9To5Google said the rollout started i…",
+            "url": "https://mspoweruser.com/youtube-podcast-page-now-available-in-the-us/",
+            "urlToImage": "https://mspoweruser.com/wp-content/uploads/2022/03/YouTube-Logo-1200x675.png",
+            "publishedAt": "2022-08-23T06:00:26Z",
+            "content": "After the news about its plan to establish a podcast page in March, YouTube has finally made the formerly inaccessible YouTube.com/podcasts destination live in the US. Google didn’t announce making t… [+1995 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cnbeta.com"
+            },
+            "author": "study875",
+            "title": "[图]旧款Mac也可通过非官方渠道升级至macOS Ventura",
+            "description": "旧款 Mac 设备可以通过非官方渠道升级到 macOS Ventura 了。本周一，OpenCore Legacy Patcher 项目负责人米科拉·格里马柳克（Mykola Grymalyuk）透露了这个好消息。在经过数月的不懈努力，他所带领的团队成功在拥有“传统 Metal GPU”的 Mac 上运行了 macOS Ventura。 阅读全文",
+            "url": "https://www.cnbeta.com/articles/tech/1307495.htm",
+            "urlToImage": "https://static.cnbetacdn.com/article/2022/0823/21c31a0dd497fc4.webp",
+            "publishedAt": "2022-08-23T00:47:55Z",
+            "content": "2008 Mac Pro2012 Mac mini2014 Mac mini 2014 5K iMacOpenCore PC macOS OpenCore Legacy Patcher Mac macOS\r\n Apple macOS Ventura Grymalyuk OpenCore Legacy Patcher"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cnbeta.com"
+            },
+            "author": "raymon725",
+            "title": "苹果发布Boot Camp 6.1.16 修复休眠蓝牙bug并支持Wi-Fi WPA3",
+            "description": "早些时候，苹果推出了 6.1.16 版 Boot Camp 软件，旨在取代之前修复蓝牙与 Wi-Fi 稳定性稳定的 6.1.12 版驱动程序更新。MacRumors 指出，Boot Camp 可帮助 Intel Mac 用户运行 Windows 操作系统。由发行说明可知，6.1.16 版本引入了对 Wi-Fi WPA3 的支持，并且修复了从睡眠 / 休眠状态恢复时，偶尔可能遇到的蓝牙驱动 bug 。 阅读全文",
+            "url": "https://www.cnbeta.com/articles/tech/1307627.htm",
+            "urlToImage": "https://static.cnbetacdn.com/article/2022/0823/4923d9eed518633.jpg",
+            "publishedAt": "2022-08-23T04:42:55Z",
+            "content": "via MacRumors\r\n 3 Studio Display Intel Mac Boot Camp 6.1.17 \r\nWindows Boot Camp \r\n Apple Silicon ARM Boot Camp Windows"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cnbeta.com"
+            },
+            "author": "study875",
+            "title": "代号“Malma” 消息称苹果已启动M3芯片的核心设计",
+            "description": "作为 M2 芯片的直接继任者，最新消息称 M3 芯片的核心设计已经启动。而且这款芯片预估将会在 2023 年下半年发布。援引 Commercial Times 报道，M3 芯片的内部代号为“Malma”，将会在台积电的 N3E 工艺架构上量产。 阅读全文",
+            "url": "https://www.cnbeta.com/articles/tech/1307615.htm",
+            "urlToImage": "https://static.cnbetacdn.com/article/2022/0823/c338959b3328ef3.webp",
+            "publishedAt": "2022-08-23T03:51:47Z",
+            "content": "N3E N3 3nm N5 N3 15% 30% N3E \r\nM3 2023 2024 WccFetch 2023 2024 \r\n 2023 iPhone 15 Pro iPhone 15 Pro Max 3nm A17 Bionic M3 MacBook Air Apple \r\niPad Pro iMac iPad Air M3 M2 M1 Apple"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cnbeta.com"
+            },
+            "author": "study875",
+            "title": "Asahi Linux有望年底前为苹果M1/M2芯片设备适配OpenGL 2.1版本",
+            "description": "艾莉莎·罗森茨维格（Alyssa Rosenzweig），以主持开发 Panfrost（ARM Mali GPU 的开源、逆向工程驱动项目）而享誉业内。在过去将近 2 年的时间里，她和 Asahi Linux 团队合作，致力于对 Apple M1/M2 图形进行逆向工程。而现在，她分享了最新阶段性成果。 阅读全文",
+            "url": "https://www.cnbeta.com/articles/tech/1307507.htm",
+            "urlToImage": "https://static.cnbetacdn.com/article/2022/0823/97e0376e4ae946a.webp",
+            "publishedAt": "2022-08-23T01:14:24Z",
+            "content": "Mesa Asahi Neverball macOS macOS macOS OpenGL Neverball OpenGL \r\nmacOS Neverball Mesa Cocoa Neverball X11 SDL2 macOS \r\n Alyssa Rosenzweig Apple Silicon Mesa \r\n Mesa OpenGL Asahi Linux OpenGL 2.1 Neve… [+7 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Former Apple car engineer pleads guilty to trade secret theft",
+            "description": "Prosecutors alleged worker downloaded plans for Apple's self-driving program before booking last-minute flight to China.",
+            "url": "https://www.aljazeera.com/economy/2022/8/23/former-apple-car-engineer-pleads-guilty-to-trade-secret-theft",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/08/2022-08-23T043656Z_1220043508_RC291W9QPMKI_RTRMADP_3_APPLE-IPHONE-INDIA.jpg?resize=1920%2C1440",
+            "publishedAt": "2022-08-23T04:58:55Z",
+            "content": "A former Apple engineer has pleaded guilty to trade secret theft one of two people accused of stealing trade secrets from the iPhone makers nascent self-driving car program.\r\nUnited States federal pr… [+867 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Apple to manufacture iPhone 14 in India: Report",
+            "description": "The move comes as Apple seeks alternative locations to China on the back of clashes with the US and long lockdowns.",
+            "url": "https://www.aljazeera.com/economy/2022/8/23/apple-to-manufacture-iphone-14-in-india",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/12/2021-12-19T042957Z_1407284352_RC2GHR9YV612_RTRMADP_3_APPLE-INDIA-ANTITRUST.jpg?resize=1920%2C1440",
+            "publishedAt": "2022-08-23T07:47:34Z",
+            "content": "Apple Inc. plans to begin manufacturing the iPhone 14 in India about two months after the products initial release out of China, narrowing the gap between the two countries but not closing it complet… [+4318 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Ahmed Twaij",
+            "title": "Western media needs to stop fixating on how Arab women look",
+            "description": "From racism to hyper-sexualisation, the depiction of Arab women in the West masks their many achievements.",
+            "url": "https://www.aljazeera.com/opinions/2022/8/23/western-media-needs-to-stop-fixating-on-how-arab-women-look",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/08/RTSAIX1E.jpg?resize=1920%2C1440",
+            "publishedAt": "2022-08-23T10:01:14Z",
+            "content": "Earlier this month, British publication The Economist, published an article titled, Why women are fatter than men in the Arab world. This overtly racist and sexist headline reflects a pandemic of foc… [+4430 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GSMArena.com"
+            },
+            "author": "Michail",
+            "title": "Apple to manufacture iPhone 14 models in India much sooner this time",
+            "description": "Apple will manufacture some of its iPhone 14 models in India in a bid to diversify its smartphone production from China. The news comes from a new Bloomberg report which also details Apple’s plans to ramp up production with contract manufacturer Foxconn at it…",
+            "url": "https://www.gsmarena.com/bloomberg_apple_to_manufacture_iphone_14_models_in_india_-news-55503.php",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/22/08/apple-iphone-14-production-india-report/-952x498w6/gsmarena_00.jpg",
+            "publishedAt": "2022-08-23T09:18:01Z",
+            "content": "Apple will manufacture some of its iPhone 14 models in India in a bid to diversify its smartphone production from China. The news comes from a new Bloomberg report which also details Apples plans to … [+744 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GSMArena.com"
+            },
+            "author": "Yordan",
+            "title": "Canalys: Apple, Samsung Q2 shipments rose in North America despite declining market",
+            "description": "Smartphone market in North America is unlike any other region, and the latest report from Canalys reminded us of the stark difference in sales performance and brand representation.\n\nThe analysis firm revealed the total smartphone shipments in Q2 2022 declined…",
+            "url": "https://www.gsmarena.com/canalys_apple_samsung_shipments_north_america_q2_2022-news-55502.php",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/22/08/canalys-north-am-market-q2-2022/-952x498w6/gsmarena_001.jpg",
+            "publishedAt": "2022-08-23T08:23:02Z",
+            "content": "Smartphone market in North America is unlike any other region, and the latest report from Canalys reminded us of the stark difference in sales performance and brand representation.\r\nThe analysis firm… [+1555 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GSMArena.com"
+            },
+            "author": "Enrique",
+            "title": "Kuo: Apple’s M2-powered 14 and 16-inch MacBook Pros to start production in Q4 2022",
+            "description": "In an update tweeted by Apple analyst Ming Chi-Kuo, new MacBook Pro models will enter mass production in Q4 of 2022 and new M2 Pro chip may end up using 5nm process despite contradicting reports.\n\nNew 14\" and 16\" MacBook Pro with new processors will enter mas…",
+            "url": "https://www.gsmarena.com/kuo_apples_m2powered_14_and_16inch_macbook_pros_to_start_production_in_q4_2022-news-55500.php",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/22/08/apple-to-start-production-m2-macbook-pros-q4/-952x498w6/gsmarena_000.jpg",
+            "publishedAt": "2022-08-23T03:39:01Z",
+            "content": "In an update tweeted by Apple analyst Ming Chi-Kuo, new MacBook Pro models will enter mass production in Q4 of 2022 and new M2 Pro chip may end up using 5nm process despite contradicting reports.\r\nNe… [+729 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Yoolim Lee, Olivia Poh",
+            "title": "Google's Asia Head on Singapore Growth, Regional Challenges: Q&A",
+            "description": "Alphabet Inc.’s Google completed its third data center in Singapore, bringing its investment in such facilities in the city-state to $850 million as it vies with tech giants from Amazon.com Inc. to Meta Platforms Inc. for bigger clout in Asia.",
+            "url": "https://www.bloomberg.com/news/articles/2022-08-23/google-s-asia-head-on-singapore-growth-regional-challenges-q-a",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMJexPeAPFx4/v0/1200x800.jpg",
+            "publishedAt": "2022-08-23T02:30:00Z",
+            "content": "Alphabet Inc.s \r\nGoogle completed its third data center in Singapore, bringing its investment in such facilities in the city-state to $850 million as it vies with tech giants from \r\nAmazon.com Inc. t… [+6239 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Itsnicethat.com"
+            },
+            "author": "Olivia Hingley",
+            "title": "Lauren Maccabee documents Garland Day, one of the Peak District's oldest folk customs",
+            "description": "The London-based photographer captures the history, community and wide-array of participants at annual festival.",
+            "url": "https://www.itsnicethat.com/articles/lauren-maccabee-garland-day-project-photography-230822",
+            "urlToImage": "https://admin.itsnicethat.com/images/4bqoNPiJAs2Es_N367ochO63vNk=/230754/width-1440/Lauren_Maccabee-_Garland_Day_Copyright__Lauren_Maccabee_2022-0013_fac9CeX.jpg",
+            "publishedAt": "2022-08-23T09:00:00Z",
+            "content": "With there being little documentation of Garland Day, Lauren felt it important to enter the project with an open mind and schedule. I arrived early in the morning and the preparations were already be… [+2510 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nomnompaleo.com"
+            },
+            "author": "Michelle Tam",
+            "title": "Dairy-Free Caesar Dressing (Whole30, Keto)",
+            "description": "This astoundingly easy dairy-free Whole30 Caesar Dressing tastes just like the original: creamy, tangy, garlicky, and bursting with umami! Make some, and I guarantee you’ll want to spoon it on everything! Are you on a Whole30, but missing a crisp and deliciou…",
+            "url": "https://nomnompaleo.com/dairy-free-caesar-dressing-whole30-keto",
+            "urlToImage": "https://nomnompaleo.com/wp-content/uploads/2022/08/1200-Caesar-Dressing-DSC_4253.jpg",
+            "publishedAt": "2022-08-23T02:09:35Z",
+            "content": "This astoundingly easy dairy-free Whole30 Caesar Dressing tastes just like the original: creamy, tangy, garlicky, and bursting with umami! Make some, and I guarantee youll want to spoon it on everyth… [+7751 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Itmedia.co.jp"
+            },
+            "author": "山川晶之，ITmedia",
+            "title": "M1 MacBookを自分で修理　Appleが米国で専用プログラム　純正パーツや工具類を提供",
+            "description": "米Appleは、ユーザー自身でMacを修理する「Self Service Repair」の提供を米国で開始した。8月23日より「Apple M1」チップを搭載したMacBookシリーズを対象に、修理マニュアル／純正パーツの提供と専用の修理ツールキットのレンタルを始める。",
+            "url": "https://www.itmedia.co.jp/news/articles/2208/23/news094.html",
+            "urlToImage": "https://image.itmedia.co.jp/news/articles/2208/23/cover_news094.jpg",
+            "publishedAt": "2022-08-23T02:50:00Z",
+            "content": "Apple822MacSelf Service Repair23Apple M1MacBook AirMacBook Pro\r\n10\r\nApple Self Service Repair StoreApple491\r\nApple20224iPhoneMacSelf Service RepairEU\r\nCopyright © ITmedia, Inc. All Rights Reserved.\r\n… [+13 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "newsfeedback@fool.com (Daniel Foelber, Scott Levine, and Lee Samaha)",
+            "title": "Down Between 51% and 78%: 3 Nasdaq Growth Stocks That Are Worth a Look",
+            "description": "These companies have their challenges but could turn things around with time.",
+            "url": "https://www.fool.com/investing/2022/08/23/down-between-51-and-78-3-nasdaq-growth-stocks-that/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/697283/2-workers-wearing-hard-hats-point-at-a-row-of-wind-turbines-at-sunset.jpg",
+            "publishedAt": "2022-08-23T10:00:00Z",
+            "content": "The broader stock market has rebounded nicely since its mid-June lows, with all three major indices officially out of a bear market. However, there are still plenty of companies that are down big off… [+5860 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Creative Bloq"
+            },
+            "author": "Daniel Piper",
+            "title": "Is this really the greatest Apple Mac wallpaper of all time?",
+            "description": "The people have spoken, apparently.",
+            "url": "https://www.creativebloq.com/news/best-mac-wallpaper",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/M7h34d4L76HfABvKctokzh-1200-80.jpg",
+            "publishedAt": "2022-08-23T07:10:26Z",
+            "content": "While best known for its elegant hardware design, Apple also has a reputation for stunning wallpapers. New backgrounds are arguably one of the most exciting aspects of any iOS or macOS announcement (… [+1617 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketingdirecto.com"
+            },
+            "author": "Esther Lastra",
+            "title": "El iPhone 14 costará un ojo de la cara: esta es la lista de (estratosféricos) precios",
+            "description": "Tres de los cuatro modelos de iPhone 14 que saldrán del cascarón en septiembre costarán al menos 100 dólares más que sus predecesores.\nLa entrada El iPhone 14 costará un ojo de la cara: esta es la lista de (estratosféricos) precios se publicó primero en Marke…",
+            "url": "https://www.marketingdirecto.com/digital-general/mobile-marketing/iphone-costara-ojo-cara-lista-precios",
+            "urlToImage": "https://www.marketingdirecto.com/wp-content/uploads/2022/08/iphone-14.jpg",
+            "publishedAt": "2022-08-23T08:30:00Z",
+            "content": "Tres de los cuatro modelos de iPhone 14 que saldrán del cascarón en septiembre costarán al menos 100 dólares más que sus predecesores.Es un secreto a voces que el esperadísimo iPhone 14 saldrá del ca… [+2945 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketingdirecto.com"
+            },
+            "author": "Alberto Pérez",
+            "title": "¿Es necesario que un analista digital tenga conocimientos en programación?",
+            "description": "En la nueva entrega del podcast de Flat 101, Elena Fernández, CRO Lead & Analista Digital en Flat 101 debate junto a Iker Jericó y Michel Vallés acerca de cuánto de necesario es que un analista digital posea conocimientos en programación. \nLa entrada ¿Es nece…",
+            "url": "https://www.marketingdirecto.com/digital-general/digital/necesario-analista-digital-tenga-conocimientos-programacion",
+            "urlToImage": "https://www.marketingdirecto.com/wp-content/uploads/2022/08/Elena-Fernandez-Flat-101.jpg",
+            "publishedAt": "2022-08-23T06:53:55Z",
+            "content": "En la nueva entrega del podcast de Flat 101, Elena Fernández, CRO Lead &amp; Analista Digital en Flat 101 debate junto a Iker Jericó y Michel Vallés acerca de cuánto de necesario es que un analista d… [+3637 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketingdirecto.com"
+            },
+            "author": "Esther Lastra",
+            "title": "Netflix: 25 años de un gigante al que le han crecido los enanos",
+            "description": "El mercado del vídeo de streaming que Netflix inauguró en su día ha terminado llenándose hasta los topes de rivales ávidos de restar cuota de mercado a quien tiene la vitola de pionero.\nLa entrada Netflix: 25 años de un gigante al que le han crecido los enano…",
+            "url": "https://www.marketingdirecto.com/anunciantes-general/medios/netflix-anos-gigante-han-crecido-enanos",
+            "urlToImage": "https://www.marketingdirecto.com/wp-content/uploads/2022/08/netflix-la-casa-de-papel.jpg",
+            "publishedAt": "2022-08-23T05:50:00Z",
+            "content": "El mercado del vídeo de streaming que Netflix inauguró en su día ha terminado llenándose hasta los topes de rivales ávidos de restar cuota de mercado a quien tiene la vitola de pionero.Hace aproximad… [+6386 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Impress.co.jp"
+            },
+            "author": null,
+            "title": "アップル、米国で「セルフサービス修理プログラム」対象をMac Bookに拡大",
+            "description": "アップル（Apple）は、同社が米国で提供するセルフサービス修理プログラム「Self Service Repair」について、対象をMac Bookに拡大した。",
+            "url": "https://k-tai.watch.impress.co.jp/docs/news/1434065.html",
+            "urlToImage": "https://k-tai.watch.impress.co.jp/img/ktw/list/1434/065/01.jpg",
+            "publishedAt": "2022-08-23T07:17:03Z",
+            "content": "AppleSelf Service RepairMac Book \r\n Self Service RepairApple4iPhone \r\n Mac BookM1MacBook AirMacBook ProSelf Service Repair Store \r\n Mac"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Clubic"
+            },
+            "author": "Mathieu Grumiaux",
+            "title": "Apple Car : l'ex-employé accusé de vol de secrets industriels plaide coupable",
+            "description": "L'homme aurait dérobé de nombreux documents ainsi que des circuits imprimés utilisés dans les prototypes du véhicule autonome développé par Apple.",
+            "url": "https://www.clubic.com/pro/entreprises/apple/actualite-434520-apple-car-l-ex-employe-accuse-de-vol-de-secrets-industriels-plaide-coupable.html",
+            "urlToImage": "https://pic.clubic.com/v1/images/2014479/raw",
+            "publishedAt": "2022-08-23T08:50:00Z",
+            "content": "Les membres d'Apple n'ont pas eu à chercher bien loin et ont découvert que Xiaolang Zhang avait récupéré plusieurs gigaoctets de documents, téléchargés sur son appareil via la technologie de transfer… [+1046 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Clubic"
+            },
+            "author": "/auteur/432354-lucas-guillemot.html",
+            "title": "Le prochain iPad pourrait intégrer TouchID dans le bouton power et une caméra FaceTime en mode paysage",
+            "description": "L'iPhone X a été une révolution côté design pour Apple : fin du bouton « home », apparition de l'encoche… Ce changement de cap se fait aussi attendre pour l'iPad de 10e génération.",
+            "url": "https://www.clubic.com/pro/entreprises/apple/actualite-434514-le-prochain-ipad-pourrait-integrer-touchid-dans-le-bouton-power-et-une-camera-facetime-en-mode-paysage.html",
+            "urlToImage": "https://pic.clubic.com/v1/images/1915879/raw",
+            "publishedAt": "2022-08-23T08:40:00Z",
+            "content": "L'iPhone X a été une révolution côté design pour Apple : fin du bouton « home », apparition de l'encoche Ce changement de cap se fait aussi attendre pour l'iPad de 10e génération. \r\nDepuis sa sortie … [+2198 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tomshw.it"
+            },
+            "author": "Luca Rocchi",
+            "title": "I pulsanti fisici sono più sicuri da usare rispetto agli schermi di infotainment",
+            "description": "Gli abitacoli moderni sono un vero e proprio concentrato di tecnologia, ma quanto sono facili e sicuri da utilizzare?",
+            "url": "https://www.tomshw.it/automotive/i-pulsanti-fisici-sono-piu-sicuri-da-usare-rispetto-agli-schermi-di-infotainment/",
+            "urlToImage": "https://www.tomshw.it/images/images/2022/02/mercedes-benz-eqs-classe-s-prova-214337.jpg",
+            "publishedAt": "2022-08-23T10:01:23Z",
+            "content": "Tecnologia a bordo I pulsanti fisici sono più sicuri da usare rispetto agli schermi di infotainment\r\nTom's Hardware vive grazie al suo pubblico. Quando compri qualcosa dai nostri link, potremmo guada… [+4416 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DIE WELT"
+            },
+            "author": "Jacques Schuster, Jacques Schuster",
+            "title": "EU-Einreiseverbot für alle Russen? Das Argument des Kanzlers dagegen ist schief",
+            "description": "Bislang unterstützt Deutschland den Vorschlag der baltischen Staaten nicht, ein Einreiseverbot für alle russischen Bürger in die EU zu verhängen. Das Argument von Olaf Scholz (SPD) dagegen mutet seltsam an. Denn alle Russen sollten spüren, was ihre Staatsführ…",
+            "url": "https://www.welt.de/politik/deutschland/article240629019/Sanktionen-wegen-Ukraine-Krieg-EU-Einreiseverbot-fuer-alle-Russen-Das-Argument-des-Kanzlers-dagegen-ist-schief.html",
+            "urlToImage": "https://img.welt.de/img/politik/deutschland/mobile240631839/8781356817-ci16x9-w1200/DIE-WELT-Fotoshooting-27-09-07-10-2016.jpg",
+            "publishedAt": "2022-08-23T10:00:31Z",
+            "content": "Man muss sich Russland wie einen Riesen vorstellen: Zehn zu eins beträgt die russische Kampfkraft im Verhältnis zu der ukrainischen. Also beschloss die Europäische Union (EU), Russland wie Gulliver i… [+2621 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DIE WELT"
+            },
+            "author": "Marie Birmanns, Jan Klauth, Marie Birmanns, Jan Klauth",
+            "title": "Keine Bewerber mehr für Jobs – so schlimm steht es um Deutschlands Ausbildungsberufe",
+            "description": "Deutschlands Unternehmen fehlt der Nachwuchs. Immer mehr Betriebe können freie Stellen nicht besetzen – für viele Stellen gibt es nicht einmal Bewerbungen. Das hat gravierende Folgen für die Wirtschaft und die Gesellschaft.",
+            "url": "https://www.welt.de/wirtschaft/karriere/article240551883/Fachkraeftemangel-Keine-Bewerber-mehr-so-schlimm-steht-es-um-Ausbildungsberufe.html",
+            "urlToImage": "https://img.welt.de/img/wirtschaft/karriere/mobile240554229/3731353917-ci16x9-w1200/Vocational-school-students-writing-a-test.jpg",
+            "publishedAt": "2022-08-23T10:03:00Z",
+            "content": "Die Entwicklung zeichnet sich seit Jahren ab und erreicht nun einen neuen Tiefpunkt. Deutschlands Ausbildungskrise spitzt sich immer weiter zu. Mehr als vier von zehn IHK-Ausbildungsbetrieben konnten… [+6441 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techbang.com"
+            },
+            "author": "IFENG",
+            "title": "曝蘋果 AirPods Pro 2 無線耳機將搭載運動感測器，首次支援健身追蹤",
+            "description": "曝蘋果 AirPods Pro 2 無線耳機將搭載運動感測器，首次支援健身追蹤根據新的報告顯示，得益於更新的運動感測器，蘋果 AirPods Pro 2 無線耳機將首次具備健身追蹤功能。\n去年，彭博社 Mark Gurman 表示，AirPods Pro 2 將配備更新的運動感測器，並專注於健身追蹤。此前，分析師郭明錤表示，蘋果希望長期為 AirPods 添加健康和健身功能。\n值得注意的是，蘋果獲得了一項入耳式健身監測系統的專利，該系統內建了先進的生物識別感測器，可通過皮膚接觸和內置運動感測器檢測生理指標，包括溫…",
+            "url": "https://www.techbang.com/posts/99100-the-apple-airpods-pro-2-wireless-headset-will-be-equipped-with",
+            "urlToImage": "https://cdn1.techbang.com/system/excerpt_images/99100/original/d446d7752f994cef6e63a325775e641f.jpg?1660806516",
+            "publishedAt": "2022-08-23T02:00:00Z",
+            "content": "AirPods Pro 2 \r\n Mark Gurman AirPods Pro 2 AirPods \r\n AirPods Pro 2 Apple Watch iOS 16 Apple Watch \r\niPhone iPhone AirPods Apple Watch \r\nAirPods Pro 2 IR Apple (ALAC) \r\n AirPods Pro 2 2022 AirPods Pr… [+21 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techbang.com"
+            },
+            "author": "鄒弦憓",
+            "title": "Logitech For Education系列打造全方位行動數位助教， 8月23日起嘖嘖平台獨家限量開賣",
+            "description": "Logitech For Education系列打造全方位行動數位助教  8月23日起嘖嘖平台獨家限量開賣 超早鳥最低63折起隨著網路資訊普及，出生就有網路的Z世代，經常透過多元數位工具學習創新與探索。Logitech推出三大學習利器「Rugged Combo 3 iPad鍵盤保護殼」、「Crayon iPad數位筆」以及「KEYS-TO-GO輕巧藍牙鍵盤」，幫助在各種情境下皆能發揮想像、揮灑創意，盡情自在學習！專為蘋果用戶打造，無論在家或外出、繪畫或閱讀，兼具行動力與生產力，隨時隨地都能輕鬆學習，成為大小果粉學…",
+            "url": "https://www.techbang.com/posts/99078-logitech-for-education-series-creates-all-round-action-digital",
+            "urlToImage": "https://cdn2.techbang.com/system/excerpt_images/99078/original/c220f8e7f7f4d3507adb10a6bb98b065.jpg?1660639606",
+            "publishedAt": "2022-08-23T04:30:00Z",
+            "content": "ZLogitechRugged Combo 3 iPadCrayon iPadKEYS-TO-GOBTSBack To SchoolLogitech8231263\r\nLogitechRugged Combo 3 iPadCrayon iPadKEYS-TO-GOZ\r\n Rugged Combo 3 iPad\r\n12Logitech Rugged Combo 31.2Apple Smart Con… [+626 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techbang.com"
+            },
+            "author": "fox",
+            "title": "Sony BRAVIA XRM-75X95K 4K HDR Mini LED 大型顯示器評測報告：認知智慧處理器 XR 結合全新背光源、音響系統，給你滿滿電影感！",
+            "description": "Sony 近期正式在台推出首款採用 Mini LED 面板的旗艦大型 4K HDR 液晶顯示器 X95K，所搭載的認知智慧處理器 XR 帶來更精準的背光控制與更高的動態範圍表現。Sony 近期正式在台推出首款採用 Mini LED 面板的旗艦大型 4K HDR 液晶顯示器，本次 T 客邦搶先實測的是打頭陣的 X95K。此次新作除了在亮度方面較以往 BRAVIA 機種大幅提升，所搭載的認知智慧處理器 XR 也帶來更精準的背光控制與更高的動態範圍表現。另外，Sony 全新的線上影音平台 BRAVIA CORE 也頗有…",
+            "url": "https://www.techbang.com/posts/97611-sony-bravia-xrm-75x95k-4k-hdr-mini-led-tv-review",
+            "urlToImage": "https://cdn0.techbang.com/system/excerpt_images/97611/original/55807ff9332d99d7116a93216407a80e.jpg?1660795257",
+            "publishedAt": "2022-08-23T02:00:00Z",
+            "content": "Sony Mini LED 4K HDR T X95K BRAVIA XR Sony BRAVIA CORE 80Mbs \r\nMini LED XR \r\n Sony BRAVIA XRM-75X95K \r\n 4K HDR 75 Sony BRAVIA Mini LED Mini LED \r\nMini LED LED 1/40Mini LED LED HDR Mini LED OLED \r\nMin… [+1948 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Inside.com.tw"
+            },
+            "author": "Mashdigi",
+            "title": "Apple 支付 6 億美元給 LG 取得專利授權",
+            "description": "就相關說法表示，蘋果與 LG 簽署專利授權使用時間長達 10 年，或許將成為蘋果日後佈局自有連網技術能力的重要基礎。",
+            "url": "https://www.inside.com.tw/article/28694-lg-apple-patent",
+            "urlToImage": "https://inside-assets1.inside.com.tw/2022/8/72237776-7351-41f3-aff3-8a6458b8180c.jpg?w=1200&h=630&fit=crop&q=80",
+            "publishedAt": "2022-08-23T07:12:38Z",
+            "content": "Google Workspace GmailGoogle MeetGoogle Google Google 2.0 Google Workspace \r\nPhoto CreditGoogle Cloud\r\nGoogle Google Google \r\nPhoto CreditGoogle Cloud\r\nGoogle Workspace \r\nGoogle Workspace Gmail 99.9%… [+168 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Basicthinking.de"
+            },
+            "author": "Fabian Peters",
+            "title": "Microsoft blendet künftig mehr Werbung bei Outlook ein",
+            "description": "Microsoft hat mehr Werbung in seinen E-Mail-Dienst Outlook integriert. User ohne kostenpflichtiges Abonnement kommen damit nicht mehr an Werbeanzeigen innerhalb der App vorbei.  Mit der Outlook-App können User ihren Posteingang variabel organisieren. Dabei be…",
+            "url": "https://www.basicthinking.de/blog/2022/08/23/microsoft-outlook-werbung/",
+            "urlToImage": "https://www.basicthinking.de/blog/wp-content/uploads/2022/08/microsoft-outlook-werbung.jpeg",
+            "publishedAt": "2022-08-23T08:15:26Z",
+            "content": "Microsoft hat mehr Werbung in seinen E-Mail-Dienst Outlook integriert. User ohne kostenpflichtiges Abonnement kommen damit nicht mehr an Werbeanzeigen innerhalb der App vorbei. \r\nMit der Outlook-App … [+2487 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Basicthinking.de"
+            },
+            "author": "Beatrice Bode",
+            "title": "Tesla-Fahrer implantiert sich seinen Autoschlüssel in die Hand",
+            "description": "Der US-Amerikaner Brandon Dalaly hat sich seinen Autoschlüssel in seine rechte Hand implantieren lassen. Nun kann er seinen Tesla per NFC-Chip entsperren.  Wo ist mein Autoschlüssel? Für viele Autofahrer:innen ist das eine lästige Frage. Denn die Antwort ist …",
+            "url": "https://www.basicthinking.de/blog/2022/08/23/tesla-fahrer-implantiert-sich-autoschluessel/",
+            "urlToImage": "https://www.basicthinking.de/blog/wp-content/uploads/2022/08/tesla-autoschlussel-implantat.jpeg",
+            "publishedAt": "2022-08-23T04:00:20Z",
+            "content": "Der US-Amerikaner Brandon Dalaly hat sich seinen Autoschlüssel in seine rechte Hand implantieren lassen. Nun kann er seinen Tesla per NFC-Chip entsperren. \r\nWo ist mein Autoschlüssel? Für viele Autof… [+2854 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nakedcapitalism.com"
+            },
+            "author": "Yves Smith",
+            "title": "China as a Developmental State: Indigenous Innovation and Global Competition",
+            "description": "China chose a successful technological development path, in contrast to the corporate financialization model in the United States.",
+            "url": "https://www.nakedcapitalism.com/2022/08/china-as-a-developmental-state-indigenous-innovation-and-global-competition.html",
+            "urlToImage": null,
+            "publishedAt": "2022-08-23T07:18:39Z",
+            "content": "Yves here. A look at how China used and improved on the old US and Japanese developmental state models. Authors Bill Lazonick and Yin Li stress the importance of China adopting sound corporate govern… [+16825 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ghacks Technology News"
+            },
+            "author": "Martin Brinkmann",
+            "title": "First look at YouTube's Podcast directory",
+            "description": "YouTube just launched a dedicated podcast page on its website. Limited to visitors from the United States at the time, it is designed as a central hub for all-things podcasts on the […]\nThank you for being a Ghacks reader. The post First look at YouTube's Pod…",
+            "url": "https://www.ghacks.net/2022/08/23/first-look-at-youtubes-podcast-directory/",
+            "urlToImage": "https://www.ghacks.net/wp-content/uploads/2022/08/youtube-podcasts.png",
+            "publishedAt": "2022-08-23T04:54:15Z",
+            "content": "YouTube just launched a dedicated podcast page on its website. Limited to visitors from the United States at the time, it is designed as a central hub for all-things podcasts on the video streaming s… [+2286 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ghacks Technology News"
+            },
+            "author": "Ashwin",
+            "title": "Ads in Microsoft Outlook app for Android and iOS are getting worse",
+            "description": "The Microsoft Outlook app for Android and iOS is displaying more ads than before. The new banners are appearing right in the inbox. Microsoft is displaying more ads in its Outlook app […]\nThank you for being a Ghacks reader. The post Ads in Microsoft Outlook …",
+            "url": "https://www.ghacks.net/2022/08/23/how-to-block-ads-in-the-outlook-app-for-android-and-ios/",
+            "urlToImage": "https://www.ghacks.net/wp-content/uploads/2022/08/Ads-in-Microsoft-Outlook-app-for-Android-and-iOS-are-getting-worse.jpg",
+            "publishedAt": "2022-08-23T08:36:20Z",
+            "content": "The Microsoft Outlook app for Android and iOS is displaying more ads than before. The new banners are appearing right in the inbox.\r\nMicrosoft is displaying more ads in its Outlook app\r\nAs you may kn… [+2731 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "tom.bedford@futurenet.com (Tom Bedford)",
+            "title": "Huawei has found a spiteful way to steal the iPhone 14's 'best camera phone' crown",
+            "description": "The Huawei Mate 50 is set to launch just the day before the iPhone 14, but could be much better for photography.",
+            "url": "https://www.techradar.com/news/huawei-has-found-a-spiteful-way-to-steal-the-iphone-14s-best-camera-phone-crown",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/bpdMcoTrAWZQcjXZKPDdJB-1200-80.jpg",
+            "publishedAt": "2022-08-23T09:39:39Z",
+            "content": "While the iPhone 14 might be the biggest new phone coming out very soon, it might not be the best; we've just heard that the Huawei Mate 50 is set to debut literally the day before Apple's newest.\r\nT… [+1623 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "‘The Ezra Klein Show’",
+            "title": "Why the Evangelical Movement Is in ‘Disarray’ After Dobbs",
+            "description": "The evangelical leader Russell Moore grapples with Trump, Dobbs and secular America.",
+            "url": "https://www.nytimes.com/2022/08/23/opinion/ezra-klein-podcast-russell-moore.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/08/23/podcasts/23eks-moore-image/23eks-moore-image-facebookJumbo.jpg",
+            "publishedAt": "2022-08-23T09:00:11Z",
+            "content": "Produced by The Ezra Klein Show\r\nWith Roe now overturned, the evangelical movement has achieved one of its decades-old political priorities. But for many evangelicals, this isnt the moment of celebra… [+1626 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Helen Davidson in Taipei and agencies",
+            "title": "Hong Kong tycoon Jimmy Lai to plead not guilty in national security case",
+            "description": "Democracy activist and Apple Daily founder will stand trial without jury and could face up to life in prisonThe founder of Apple Daily, Jimmy Lai, will stand trial without a jury in Hong Kong, after he told a court he would plead not guilty to national securi…",
+            "url": "https://amp.theguardian.com/world/2022/aug/23/hong-kong-tycoon-jimmy-lai-plead-not-guilty-national-security-case",
+            "urlToImage": "https://i.guim.co.uk/img/media/c50e41fcd00fe9407a0ccccb0e0c686347d822e3/0_197_5477_3286/master/5477.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e25daced27b4f961c3ca5af1eacaed70",
+            "publishedAt": "2022-08-23T07:25:56Z",
+            "content": "The founder of Apple Daily, Jimmy Lai, will stand trial without a jury in Hong Kong, after he told a court he would plead not guilty to national security charges.\r\nOn Monday, prosecutors told a case … [+2596 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "La histórica sequía que sufre el río Yangtsé en China (y cómo afecta a la economía global)",
+            "description": "Es un verano boreal caluroso y seco a niveles récord en China. Esto está originando problemas de energía que afectan a factorías y al comercio, y añade presión a la economía mundial.",
+            "url": "https://www.bbc.com/mundo/noticias-internacional-62632363",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/E466/production/_126407485_gettyimages-1242645595.jpg",
+            "publishedAt": "2022-08-23T03:42:50Z",
+            "content": "<ul><li>José Carlos Cueto</li><li>BBC News Mundo</li></ul>\r\nFuente de la imagen, Getty Images\r\nPie de foto, China sufre un calor extremo prolongado, récord desde 1961.\r\nEl río Yangtsé es vital para C… [+7427 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SlashGear"
+            },
+            "author": "staff@slashgear.com (Ewdison Then)",
+            "title": "iPad 10 Could Have A Very Different Touch ID And FaceTime Camera",
+            "description": "Rumors about the anticipated 10th-generation iPad keep rolling in, and the latest has an interesting take on some leaked details about the camera and Touch ID.",
+            "url": "https://www.slashgear.com/975975/ipad-10-could-have-a-very-different-touch-id-and-facetime-camera/",
+            "urlToImage": "https://www.slashgear.com/img/gallery/ipad-10-could-have-a-very-different-touch-id-and-facetime-camera/l-intro-1661218186.jpg",
+            "publishedAt": "2022-08-23T01:35:18Z",
+            "content": "According to the Japanese Apple fan blog MacOtakara, the leaked schematics for the iPad 10 don't actually include locations for the Touch ID button and FaceTime front camera. The presumption was that… [+1319 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SlashGear"
+            },
+            "author": "staff@slashgear.com (Ewdison Then)",
+            "title": "Galaxy Watch 5 Pro Has One Annoying Design Flaw",
+            "description": "Samsung&#039;s Galaxy Watch 5 series includes a Pro model, and while it has great specs, there&#039;s one subtle design change that may really annoy some consumers.",
+            "url": "https://www.slashgear.com/975960/galaxy-watch-5-pro-has-one-annoying-design-flaw/",
+            "urlToImage": "https://www.slashgear.com/img/gallery/galaxy-watch-5-pro-has-one-annoying-design-flaw/l-intro-1661216336.jpg",
+            "publishedAt": "2022-08-23T00:59:16Z",
+            "content": "Samsung unveiled its latest smartwatch recently, and one of the models could very well be among the top wearables this year regardless of platform. The Galaxy Watch 5 Pro, which may be the company's … [+1440 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Süddeutsche Zeitung"
+            },
+            "author": "von Antonia Franz und Lea Sahay",
+            "title": "SZ-Podcast \"The Great Firewall\": Warum China die LGBTQ-Community aus dem Internet löscht",
+            "description": "Als der Filmemacher Fan Popo entdeckt, dass seine Dokumentation \"Mama Rainbow\" im Internet zensiert wird, beschließt er sich zu wehren. Er verklagt die Zensoren in China. Die fünfte Folge der neuen SZ-Podcast-Serie.",
+            "url": "https://www.sueddeutsche.de/politik/china-internet-lgbtq-1.5640874",
+            "urlToImage": "https://www.sueddeutsche.de/image/sz.1.5640876/1200x675?v=1660748235",
+            "publishedAt": "2022-08-23T05:34:48Z",
+            "content": "Als der Filmemacher Fan Popo entdeckt, dass seine Dokumentation \"Mama Rainbow\" im Internet zensiert wird, beschließt er sich zu wehren. Er verklagt die Zensoren in China. Die fünfte Folge der neuen S… [+729 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Antyweb.pl"
+            },
+            "author": "Piotr Kurek",
+            "title": "Napraw MacBooka w domu. Apple rozszerza swój program naprawczy",
+            "description": "Posiadacie MacBooka z uszkodzonym wyświetlaczem, problemem z baterią lub gładzikiem? Apple pozwoli naprawić go w we własnym domu. Od dziś użytkownicy z USA mają dostęp do oryginalnych części zamiennych i zestawu narzędzi do samodzielnej naprawy.\n \n The post N…",
+            "url": "https://antyweb.pl/napraw-macbooka-w-domu",
+            "urlToImage": "https://antyweb.pl/img/1250/550/fit/wp-content/uploads/2022/03/epvix3dsix/macbook-pro-14-00018.jpg",
+            "publishedAt": "2022-08-23T09:23:30Z",
+            "content": "Pod koniec kwietnia Apple uruchomio swój pierwszy \"domowy serwis\". Posiadacze iPhone'a SE, iPhone'a 12 i iPhone'a 13 ze Stanów Zjednoczonych otrzymali dostp do szczegóowych instrukcji naprawy oraz cz… [+2836 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Emily Peck",
+            "title": "Apple's remote work struggles suggest there's no going back on working from home",
+            "description": "Efforts by CEOs to push workers back to the office are failing, as it's becoming increasingly clear that the world of strictly in-office work is gone.Why it matters: While the country is back to normal from the height of the pandemic in so many ways — we go t…",
+            "url": "https://www.axios.com/2022/08/23/apple-return-to-office-work-from-home",
+            "urlToImage": "https://static.axios.com/img/axios-site/axios-placeholder-16x9.png",
+            "publishedAt": "2022-08-23T09:15:45Z",
+            "content": "Efforts by CEOs to push workers back to the office are failing, as it's becoming increasingly clear that the world of strictly in-office work is gone.\r\nWhy it matters: While the country is back to no… [+2889 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Olhardigital.com.br"
+            },
+            "author": "Gabrielly Bento",
+            "title": "Anúncios de busca podem chegar ao Apple Maps",
+            "description": "Apple pode adicionar anúncios no Apple Maps e a equipe de engenharia já está alinhando o software para dar suporte a anúncios de busca\nO post Anúncios de busca podem chegar ao Apple Maps apareceu primeiro em Olhar Digital.",
+            "url": "https://olhardigital.com.br/2022/08/22/pro/anuncios-de-busca-podem-chegar-ao-apple-maps/",
+            "urlToImage": "https://img.olhardigital.com.br/wp-content/uploads/2022/08/Apple-2.jpg",
+            "publishedAt": "2022-08-23T01:02:00Z",
+            "content": "Segundo a Bloomberg, a Apple pode comeÃ§ar a adicionar anÃºncios no Apple Maps jÃ¡ no prÃ³ximo ano. A nota afirma que a equipe de engenharia da empresa estÃ¡ alinhando o software para dar suporte a a… [+1900 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Raywenderlich.com"
+            },
+            "author": null,
+            "title": "Supabase with Flutter [SUBSCRIBER]",
+            "description": "<p>Learn how to create a cloud based database and authentication application using Supabase.\nThis is an easy to use Postgres relational database along with authentication. There are easy\nto use libraries for Flutter. Easily setup email/password authentication…",
+            "url": "https://www.raywenderlich.com/33619647-supabase-with-flutter",
+            "urlToImage": "https://assets.robles.raywenderlich.com/videos/b06e7011531aa66a361f49bea5833ee4a05e5d416ee2563f7846c9b12e2bc84d/images/dab96047520016f960106529a071076c/original.png",
+            "publishedAt": "2022-08-23T00:00:00Z",
+            "content": "Learn about Supabase and what cloud-based services it provides. The web-based interface will show how to use the different services.\r\n1\r\nLearn about how Supabase is different than Firebase.\r\n2\r\nStart… [+1313 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Actualidadiphone.com"
+            },
+            "author": "Luis Padilla",
+            "title": "El iPad 10 podría parecerse más al iPad Air de lo que esperábamos",
+            "description": "El próximo iPad 10 podía traer importantescambios de diseño para ser muy similar por fuera los iPad Air y Pro",
+            "url": "https://www.actualidadiphone.com/el-ipad-10-podria-parecerse-mas-al-ipad-air-de-lo-que-esperabamos/",
+            "urlToImage": "https://www.actualidadiphone.com/wp-content/uploads/2021/04/iPad-Pro-03-scaled.jpg",
+            "publishedAt": "2022-08-23T08:00:52Z",
+            "content": "Es uno de los dispositivos que casi con toda seguridad veremos antes de que acabe el año, el iPad 10, la nueva generación del tablet más asequible de Apple que podría traer cambios de diseño importan… [+1810 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "3dnews.ru"
+            },
+            "author": null,
+            "title": "Продажи смартфонов в Северной Америке упали, а Apple заняла более половины рынка",
+            "description": "Аналитическая компания Canalys оценила расстановку сил на рынке смартфонов Северной Америки во втором квартале текущего года. Продажи сокращаются на фоне экономических вызовов, высокого уровня инфляции и сезонного спада потребительской активности. С апреля по…",
+            "url": "https://3dnews.ru/1072724/apple-zanimaet-bolee-polovini-rinka-smartfonov-severnoy-ameriki",
+            "urlToImage": "https://3dnews.ru/assets/external/illustrations/2022/08/23/1072724/na1.jpg",
+            "publishedAt": "2022-08-23T09:19:00Z",
+            "content": "Canalys . , .\r\n35,4 . 6,4 % , 37,8 .\r\nApple . 52 %, 3 % — 18,5 .\r\nSamsung 26 % 9,0 . 4 %. Motorola 9 % 3,1 . 1 %.\r\n , TCL Google 5 % 2 %: 1,8 0,8 . TCL 11 %, Google — 230 %. 6 %. \r\n :\r\n : Canalys"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tinhte.vn"
+            },
+            "author": "giahuy0308@outlook.com (Pnghuy), Pnghuy",
+            "title": "Cựu kỹ sư dự án Apple Car thừa nhận ăn cắp bí mật thương mại để đem về Trung Quốc",
+            "description": "XiaoIang Zhang đã bị cáo buộc về tội ăn cắp các bí mật công nghệ, bí mật thương mại về dự án xe hơi tự hành của Apple - Apple Car để đem về Trung Quốc cho một startup về xe điện GuangZhou Xiaopeng Motors Technology, hay còn được gọi là Xpeng.",
+            "url": "https://tinhte.vn/thread/cuu-ky-su-du-an-apple-car-thua-nhan-an-cap-bi-mat-thuong-mai-de-dem-ve-trung-quoc.3556608/",
+            "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2022/08/6098136_cover_Apple-car-wheel-icon-feature-blue.jpg",
+            "publishedAt": "2022-08-23T07:49:51Z",
+            "content": "XiaoIang Zhang ã b cáo buc v ti n cp các bí mt công ngh, bí mt thng mi v d án xe hi t hành ca Apple - Apple Car em v Trung Quc cho mt startup v xe in GuangZhou Xiaopeng Motors Technology, hay còn c g… [+1270 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tinhte.vn"
+            },
+            "author": "giahuy0308@outlook.com (Pnghuy), Pnghuy",
+            "title": "Cựu kỹ sư dự án Apple Car thừa nhận cắp bí mật thương mại để đem về Trung Quốc",
+            "description": "XiaoIang Zhang đã bị cáo buộc về tội ăn cắp các bí mật công nghệ, bí mật thương mại về dự án xe hơi tự hành của Apple - Apple Car để đem về Trung Quốc cho một startup về xe điện GuangZhou Xiaopeng Motors Technology, hay còn được gọi là Xpeng.",
+            "url": "https://tinhte.vn/thread/cuu-ky-su-du-an-apple-car-thua-nhan-cap-bi-mat-thuong-mai-de-dem-ve-trung-quoc.3556608/",
+            "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2022/08/6098136_cover_Apple-car-wheel-icon-feature-blue.jpg",
+            "publishedAt": "2022-08-23T07:31:58Z",
+            "content": "XiaoIang Zhang ã b cáo buc v ti n cp các bí mt công ngh, bí mt thng mi v d án xe hi t hành ca Apple - Apple Car em v Trung Quc cho mt startup v xe in GuangZhou Xiaopeng Motors Technology, hay còn c g… [+1270 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tinhte.vn"
+            },
+            "author": "peacewalker215@yahoo.com (P.W), P.W",
+            "title": "Sony bị kiện, đòi 5,9 tỷ USD vì lấy 30% chia sẻ doanh thu khi mọi người mua game PS",
+            "description": "Một nhóm hoạt động vì quyền lợi người tiêu dùng ở Anh Quốc vừa khởi kiện Sony vì họ thu 30% phí chia sẻ doanh thu trên mỗi giao dịch người chơi PS4 và PS5 mua thông qua PlayStation Store. Theo Sky News…",
+            "url": "https://tinhte.vn/thread/sony-bi-kien-doi-5-9-ty-usd-vi-lay-30-chia-se-doanh-thu-khi-moi-nguoi-mua-game-ps.3556502/",
+            "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2022/08/6097840_Cover_PS.jpg",
+            "publishedAt": "2022-08-23T04:19:57Z",
+            "content": "Mt nhóm hot ng vì quyn li ngi tiêu dùng Anh Quc va khi kinSony vì h thu 30% phí chia s doanh thu trên mi giao dch ngi chi PS4 và PS5 mua thông qua PlayStation Store. Theo Sky News, n kin ã c gi lên t… [+1483 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neowin"
+            },
+            "author": "Karthik Mudaliar",
+            "title": "Apple to start manufacturing iPhone 14 in India to remove dependency from China",
+            "description": "Apple's assembly partner Foxconn will start manufacturing the iPhone 14 at its Chennai, India plant in a move to reduce dependency and diversify supply chain and logistics from China. Read more...",
+            "url": "https://www.neowin.net/news/apple-to-start-manufacturing-iphone-14-in-india-to-remove-dependency-from-china/",
+            "urlToImage": "https://cdn.neow.in/news/images/uploaded/2022/08/1661239369_foxconn_india_story.jpg",
+            "publishedAt": "2022-08-23T07:30:01Z",
+            "content": "Foxconn India | Credits - Karen Das / Bloomberg\r\nApple has been working to diversify its supply chain from China for its iPhone manufacturing. The Cupertino company plans to begin manufacturing of th… [+1320 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Netafull.net"
+            },
+            "author": "コグレマサト",
+            "title": "Apple、サポート動画「iPhoneがAppleロゴの画面でフリーズしたときに再起動する方法」を公開",
+            "description": "Appleが、iPhone、iPad、iPod touch向けのサポート動画「iPhoneがAppleロゴの画面でフリーズしたときに再起動する方法」を公開しています。 iPhoneがAppleロゴの画面でフリーズしたとき...\n投稿 Apple、サポート動画「iPhoneがAppleロゴの画面でフリーズしたときに再起動する方法」を公開 は ネタフル に最初に表示されました。",
+            "url": "https://netafull.net/iphone/0118652.html",
+            "urlToImage": "https://netafull.net/wp-content/uploads/2022/08/apple-iphone-freeze-recovery.jpg",
+            "publishedAt": "2022-08-23T08:30:00Z",
+            "content": "AppleiPhoneiPadiPod touchiPhoneApple\r\niPhoneiPadiPod touchApple"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "3dnews.ru"
+            },
+            "author": null,
+            "title": "Суд признал виновным бывшего сотрудника Apple, пытавшегося вывезти документацию по автомобильному проекту в Китай",
+            "description": "В июле 2018 года агентами ФБР в аэропорту Сан-Хосе был арестован Сяолан Чжан (Xiaolang Zhang) — уроженец Китая и бывший сотрудник Apple, который в период с 2015 года был вовлечён в разработку компонентов для роботизированного электромобиля этой марки. По верс…",
+            "url": "https://3dnews.ru/1072695/sud-priznal-vinovnim-bivshego-sotrudnika-apple-pitavshegosya-vivezti-dokumentatsiyu-po-avtomobilnomu-proektu-v-kitay",
+            "urlToImage": "https://3dnews.ru/assets/external/illustrations/2022/08/23/1072695/apple_01.jpg",
+            "publishedAt": "2022-08-23T04:15:00Z",
+            "content": "2018 - (Xiaolang Zhang) — Apple, 2015 . , Apple , . .\r\n: Apple\r\nCNBC . . , $250 000, Apple. , Linux.\r\n , Apple . , , , . , Apple , .\r\n, Apple , 5000 , , 2700 . , , , Apple . , Apple, , .\r\n Apple , . … [+30 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "3dnews.ru"
+            },
+            "author": null,
+            "title": "Рост выручки на полупроводниковом рынке в этом году не превысит 13,9 %",
+            "description": "В этом году рынку полупроводниковых компонентов предстоит столкнуться с серьёзными макроэкономическими вызовами, и в сегменте ПК и смартфонов снижение спроса уже даёт о себе знать многим участникам рынка. По прогнозам организации World Semiconductor Trade Sta…",
+            "url": "https://3dnews.ru/1072703/rost-viruchki-na-poluprovodnikovom-rinke-v-etom-godu-ne-previsit-139-",
+            "urlToImage": "https://3dnews.ru/assets/external/illustrations/2022/08/23/1072703/wafer_01.jpg",
+            "publishedAt": "2022-08-23T05:01:00Z",
+            "content": ", . World Semiconductor Trade Statistics, 13,9 % 16,3 %.\r\n: Apple\r\n, Bloomberg , , $600 . 2023 4,6 %, 2019 , 12 %.\r\n , , (5 %), 4,8 %, - 4,7 % . , 3,2 %. , . Bloomberg Economics, 24 100 %."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sspai.com"
+            },
+            "author": "拐子狼",
+            "title": "短播客是播客的未来吗？",
+            "description": "短视频主宰了视频，那么短播客会是播客的未来吗？查看全文",
+            "url": "https://sspai.com/post/75269",
+            "urlToImage": "https://cdn.sspai.com/2022/08/21/f99691b7d0935c379d48d42caf38bd59.jpg",
+            "publishedAt": "2022-08-23T03:30:00Z",
+            "content": "CNSA \r\n20122013 \r\nPGC PUGC UGC\r\n2001 \r\n PGC UGC\r\nUGC + PUGC PGC PUGC \r\nUGC PUGC \r\nApple Podcast 48 Netflix 45 \r\n PGC PUGCUGC \r\nUGC PGC\r\nGQ \r\nVlog Web3 \r\nRSS \r\n RSS RSS \r\nshownotes\r\n shownotes \r\nshown… [+122 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Computerra.ru"
+            },
+            "author": "Компьютерра",
+            "title": "Инженер-любитель «вернул ноги» змее",
+            "description": "Змея не была пристегнута к четвероногому экзоскелету и могла выбраться из него в любой момент. Однако после начала движения пресмыкающееся не пыталось покинуть устройство.  Американский блогер Аллен Пэн разработал экзоскелет для змей: он состоит из трубы и ро…",
+            "url": "https://www.computerra.ru/281774/281774/",
+            "urlToImage": "https://www.computerra.ru/wp-content/uploads/2022/08/the-new-york-public-library-2EzQsIkPnKc-unsplash-scaled.jpg",
+            "publishedAt": "2022-08-23T07:15:28Z",
+            "content": ", 10:15\r\n. . \r\n : . 3D-, .\r\n- : «» .\r\n . , . , . .\r\n , , .\r\n, 10:15\r\n- « » \r\n, 17:13\r\n«.» « » \r\n, 16:57\r\n , \r\n, 16:26\r\nApple NeuMan \r\n, 11:00\r\n - , \r\n19 2022\r\n -\r\n18 2022\r\n18 2022\r\n Microsoft «» \r\n17… [+23 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tinhte.vn"
+            },
+            "author": "peacewalker215@yahoo.com (P.W), P.W",
+            "title": "Apple bắt đầu quá trình thiết kế kiến trúc M3, tiến trình TSMC 3nm Enhanced, ra mắt nửa sau năm 2023",
+            "description": "Đó là những tuyên bố của kênh tin tức Đài Loan Commercial Times. Theo họ, kiến trúc Apple Silicon M3 đã bắt đầu được phát triển nền tảng, tên mã Malma, dự kiến sẽ được sản xuất trên tiến trình 3nm Enhanced (N3E) của TSMC.",
+            "url": "https://tinhte.vn/thread/apple-bat-dau-qua-trinh-thiet-ke-kien-truc-m3-tien-trinh-tsmc-3nm-enhanced-ra-mat-nua-sau-nam-2023.3556524/",
+            "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2022/08/6097898_Cover_Apple.jpg",
+            "publishedAt": "2022-08-23T04:47:36Z",
+            "content": "ó là nhng tuyên b ca kênh tin tc ài Loan Commercial Times. Theo h, kin trúc Apple SiliconM3 ã bt u c phát trin nn tng, tên mã Malma, d kin s c sn xut trên tin trình 3nm Enhanced (N3E) ca TSMC.So vi t… [+1298 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Elespanol.com"
+            },
+            "author": "C�sar Rebolledo",
+            "title": "FREE FIRE | Códigos de hoy martes 23 de agosto de 2022 - Recompensas gratis",
+            "description": "<!--cache-->Estos son todos los códigos gratis de Garena Free Fire que podrás canjear hoy, martes 23 de agosto de 2022. Consigue recompensas como skins, diamantes y mucho más.<!--aa--->El éxito para móviles Android e iOS, Garena Free Fire, ha recibido nuevos …",
+            "url": "https://vandal.elespanol.com/noticia/1350755944/free-fire-codigos-de-hoy-martes-23-de-agosto-de-2022-recompensas-gratis/",
+            "urlToImage": "https://media.vandal.net/i/ivandal/1200x630/8-2022/20228238512076_1.jpg",
+            "publishedAt": "2022-08-23T06:51:00Z",
+            "content": "El xito para mviles Android e iOS, Garena Free Fire, ha recibido nuevos cdigos diarios para hoy martes 23 de agosto de 2022. Los jugadores pueden canjear estos cdigos para recibir recompensas variada… [+2479 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Publico.pt"
+            },
+            "author": "publico@publico.pt",
+            "title": "Tela Habitada: à conversa com Delfim Sardo",
+            "description": "Neste episódio do podcast Antecâmara, Soraia Fernandes conversa com Delfim Sardo no contexto da exposição Sound It, no CCB. O podcast Antecâmara é um parceiro da Rede PÚBLICO.",
+            "url": "https://www.publico.pt/2022/08/23/p3/noticia/tela-habitada-conversa-delfim-sardo-2017918",
+            "urlToImage": "https://imagens.publico.pt/imagens.aspx/1726130?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_P3.png",
+            "publishedAt": "2022-08-23T09:55:00Z",
+            "content": "Antecâmara é um podcast parceiro da Rede PÚBLICO, produzido pela Rádio Antecâmara. Depois de ouvirmos episódios marcantes dos programas da rádio, mergulhamos também nas residências de diferentes auto… [+3317 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kate Springer, CNN",
+            "title": "50 of the best street foods in Asia",
+            "description": "To celebrate the region's bottomless culinary talent and passion for food, we've rounded up 50 must-try, much-loved street foods in Asia in alphabetical order.",
+            "url": "https://www.cnn.com/travel/article/asia-best-street-foods-cmd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220526093135-15-body-best-asian-street-foods-chili-crab-super-tease.jpg",
+            "publishedAt": "2022-08-23T02:26:10Z",
+            "content": "(CNN) Bubbling cauldrons of noodle soup, flaky flatbreads, kaleidoscopic desserts -- when it comes to street food, Asia delivers big on variety and flavor. \r\nThis vast region sprawls across equatoria… [+22484 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Designshack.net"
+            },
+            "author": "Roshan Perera",
+            "title": "10+ Best Figma Fonts for UI Projects (And How to Add Them)",
+            "description": "Typography is one of the most important aspects of UI design. Although most of the time, users never really notice it since designers do a great job of finding the perfect font to offer the best user experience. But, only the designers know how much work they…",
+            "url": "https://designshack.net/articles/inspiration/figma-fonts/",
+            "urlToImage": "https://designshack.net/wp-content/uploads/figma-fonts-1.png",
+            "publishedAt": "2022-08-23T09:00:19Z",
+            "content": "Typography is one of the most important aspects of UI design. Although most of the time, users never really notice it since designers do a great job of finding the perfect font to offer the best user… [+8469 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "The Daily Beast",
+            "title": "Does Dr. Oz’s Team Hate Him or Are They Just Bad at Their Jobs?",
+            "description": "Photo Illustration by The Daily Beast/Getty/Twitter\r\nDr. Oz is losing the unofficial Twitter war against Pennsylvania Lt. Gov. John Fetterman, with the latest loss coming after Fetterman recently dunked on Oz for using the term crudités in an April video.“Doe…",
+            "url": "https://www.thedailybeast.com/does-dr-ozs-team-hate-him-or-are-they-just-bad-at-their-jobs",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1661233154/220822-tna-dr-oz-veggie-tease_fk5gsn",
+            "publishedAt": "2022-08-23T08:39:37Z",
+            "content": "Dr. Oz is losing the unofficial Twitter war against Pennsylvania Lt. Gov. John Fetterman, with the latest loss coming after Fetterman recently dunked on Oz for using the term crudités in an April vid… [+2113 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "Matt Wilstein",
+            "title": "Sharon Horgan on ‘Bad Sisters,’ ‘Catastrophe,’ and Trying Not to ‘Die Alone’",
+            "description": "Christopher Barr\r\nSharon Horgan can’t seem to stop creating television shows. From Pulling to Catastrophe to Divorce to Motherland to Shining Vale to her latest, the Apple TV+ comedy thriller Bad Sisters, she is one of the most prolific showrunners in the gam…",
+            "url": "https://www.thedailybeast.com/sharon-horgan-on-bad-sisters-catastrophe-and-trying-not-to-die-alone",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1567,w_2788,x_211,y_31/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1661213601/Bad_Sisters_Photo_010104_c19gvg",
+            "publishedAt": "2022-08-23T08:41:42Z",
+            "content": "Sharon Horgan cant seem to stop creating television shows. From Pulling to Catastrophe to Divorce to Motherland to Shining Vale to her latest, the Apple TV+ comedy thriller Bad Sisters, she is one of… [+11666 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Twistedsifter.com"
+            },
+            "author": "Ashley Kopmeyer",
+            "title": "Why Nobody Knows What The Angzarr Character Means",
+            "description": "The angzarr symbol is part of the Unicode system for modern computers, but nobody seems to know what it means!",
+            "url": "https://twistedsifter.com/videos/why-nobody-knows-what-this-one-character-means/",
+            "urlToImage": "https://twistedsifter.com/wp-content/uploads/2022/05/Why-Nobody-Knows-What-This-One-Unicode-Character-Means.jpg",
+            "publishedAt": "2022-08-23T03:14:08Z",
+            "content": "The angzarr symbol, a right angle overlaid by a zig-zag down arrow, is part of the highly-maintained Unicode system for modern computers, so why doesn’t anyone seem to know what it means?\r\nCheck out … [+263 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seeking Alpha"
+            },
+            "author": "Nicholas Ward",
+            "title": "Nicholas Ward's Dividend Growth Portfolio: July 2022 Update",
+            "description": "During July of 2022, my passive income increased by 22.87%. Click here for my portfolio update for July 2022.",
+            "url": "https://seekingalpha.com/article/4536273-nicholas-wards-dividend-growth-portfolio-july-2022-update",
+            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1345558469/image_1345558469.jpg?io=getty-c-w750",
+            "publishedAt": "2022-08-23T03:10:45Z",
+            "content": "PM Images\r\nAnother month, another step towards financial freedom (it never gets old writing that down).\r\n During July of 2022, my passive income increased by 22.87%.\r\nNick's Dividend Data \r\nJuly’s 22… [+19749 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Zive.cz"
+            },
+            "author": "Lukáš Václavík",
+            "title": "Apple povolí domácí opravy také u Maců. Díly a nástroje budou letos i v Evropě",
+            "description": "Cupertinská společnost oznámila, že ode dneška mohou Američané využít program pro domácí opravy rovněž u Maců. Od jara je tato možnost dostupná pro iPhony 12 a novější plus iPhony SE 3. generace.\n\n\n\nV případě jablečných počítačů je program určen pro MacBooky …",
+            "url": "https://www.zive.cz/clanky/apple-povoli-domaci-opravy-take-u-macu-dily-a-nastroje-budou-letos-i-v-evrope/sc-3-a-218019/default.aspx",
+            "urlToImage": "https://www.zive.cz/getthumbnail.aspx?q=100&height=20000&width=20000&id_file=127758899",
+            "publishedAt": "2022-08-23T09:45:00Z",
+            "content": "Cupertinská spolenost oznámila, e ode dneka mohou Ameriané vyuít program pro domácí opravy rovn u Mac. Od jara je tato monost dostupná pro iPhony 12 a novjí plus iPhony SE 3. generace.\r\nV pípad jable… [+907 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Taisy0.com"
+            },
+            "author": "taisy0",
+            "title": "Appleの整備済み商品情報 2022/8/23",
+            "description": "本日、Appleのお得な整備済み製品が多数追加されていますので、良かったらどうぞ。 整備済み商品とは初期不良などがあった商品をAppleが修理し、販売している商品で1年間の保証付きなので新品と変わらず、安く購入でき、現在 ...",
+            "url": "https://taisy0.com/2022/08/23/160413.html",
+            "urlToImage": "https://taisy0.com/wp-content/uploads/2022/03/applestoreicon2022.jpg",
+            "publishedAt": "2022-08-23T01:37:57Z",
+            "content": "Apple\r\nApple1MacM1MacBook AirMacBook Pro 14IntelMac mini()\r\nMacBook Pro 13 8CPU8GPU126,280MacBook Pro 13 8CPU8GPU144,980MacBook Pro 13 8CPU8GPU163,680MacBook Pro 13 8CPU8GPU182,380MacBook Pro 13 2.0G… [+1798 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Taisy0.com"
+            },
+            "author": "taisy0",
+            "title": "ソニーの｢wena 3｣が｢google Fit｣とAppleの｢ヘルスケア｣と連携可能に",
+            "description": "本日、ソニーが、スマートウォッチ「wena 3」が「google Fit」とAppleの「ヘルスケア」に対応したことを案内しています。 これは本日リリースされた最新のソフトウェアアップデートによるもので、各OS向け公式ア ...",
+            "url": "https://taisy0.com/2022/08/23/160434.html",
+            "urlToImage": "https://taisy0.com/wp-content/uploads/2022/08/th_wena3.jpg",
+            "publishedAt": "2022-08-23T08:14:34Z",
+            "content": "wena 3google FitApple\r\nOSwena 32.00JP\r\niOSwena 3 2.00JP Apple /()/\r\nAndroidwena 3 2.00JP Google Fit/()/\r\nGoogle Fit\r\nGoogle FitStepCalorieHeart RateSleep\r\nApple StepCalorieVo2 MaxHeart RateSleep\r\nwen… [+56 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Macitynet.it"
+            },
+            "author": "Mauro Notarianni",
+            "title": "Ex ingegnere Apple si dichiara colpevole per furto di segreti su Apple Car",
+            "description": "Xiaolang Zhang, ex ingegnere di Apple, si è dichiarato colpevole del furto di segreti commerciali, elemento che potrebbe comportare una condanna fino a dieci anni di prigione.\n- su macitynet.it Ex ingegnere Apple si dichiara colpevole per furto di segreti su …",
+            "url": "https://www.macitynet.it/ex-ingegnere-apple-si-dichiara-colpevole-per-furto-di-segreti-su-apple-car/",
+            "urlToImage": "https://www.macitynet.it/wp-content/uploads/2021/02/applecar1200.jpg",
+            "publishedAt": "2022-08-23T05:29:57Z",
+            "content": "Xiaolang Zhang, ex ingegnere di Apple, si è dichiarato colpevole del furto di segreti commerciali, elemento che potrebbe comportare una condanna fino a dieci anni di prigione.\r\nLo riferisceCNBC ricor… [+1788 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Macitynet.it"
+            },
+            "author": "Pubblicità",
+            "title": "Offerte Amazon 23 agosto fino al 50% su Apple, Netgear Soundcore, Ugreen, Meross, JBL",
+            "description": "In sconto computer, cuffie, switch, altoparlanti, caricatori, action cam, webcam, supporti e molto altro\n- su macitynet.it Offerte Amazon 23 agosto fino al 50% su Apple, Netgear Soundcore, Ugreen, Meross, JBL",
+            "url": "https://www.macitynet.it/?p=1139799",
+            "urlToImage": "https://www.macitynet.it/wp-content/uploads/2018/04/amazonlista2.jpg",
+            "publishedAt": "2022-08-23T06:59:30Z",
+            "content": "Quelle che trovate elencate in questa pagina sono le offerte valide nel momento in cui scriviamo su Amazon.\r\nLa lista comprende diverse categorie di prodotto: di seguito vi mostriamo una selezione di… [+7867 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hwupgrade.it"
+            },
+            "author": null,
+            "title": "Amazon, ecco i super sconti! Oltre a Apple (-300), tagli di prezzo su Ecovacs (-400), portatili a partire da 479, smartphone da 139 e Xbox Series X disponibile",
+            "description": "Per la prima volta dal lancio, continua a essere disponibile su Amazon Xbox Series X. Ma sono tantissimi gli sconti oggi: a cominciare dai dispositivi Apple come il nuovo MacBook Air con chip M2, ma anche il robot aspirapolvere Ecovacs Deebot X1 Turbo e diver…",
+            "url": "https://www.hwupgrade.it/news/telefonia/amazon-ecco-i-super-sconti-oltre-a-apple-300-tagli-di-prezzo-su-ecovacs-400-portatili-a-partire-da-479-smartphone-da-139-e-xbox-series-x-disponibile_109508.html",
+            "urlToImage": "https://www.hwupgrade.it/i/n/xboxseriesx_720.jpg",
+            "publishedAt": "2022-08-23T06:49:36Z",
+            "content": "Per la prima volta dal lancio (avvenuto due anni fa) Xbox Series X è disponibile in volumi su Amazon.\r\nNon sono ricondizionati, sono nuovi! Apple MacBook Pro (14\", Chip Apple M1 Pro con CPU 8-core e … [+5856 chars]"
+        }
+    ]
+}
